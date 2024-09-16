@@ -8,5 +8,5 @@ Team VOID developed this program for the Hunt the Wumpus Challenge in 2024, whic
 Most modules are within the Python Standard Library, but all imported modules are within requirements.txt
 
 ## Authors
-Victoria Zhang\n
+Victoria Zhang<br\>
 Zoë Babbar
